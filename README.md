@@ -1,5 +1,5 @@
-#### TIC-TAC-TOE
+# TIC-TAC-TOE
 
-#### It is tic tac toe game.
+## It is tic tac toe game.
 
-#### Output link:  https://rajdeepjaiswal.github.io/TIC-TAC-TOE/
+### Output link:  https://rajdeepjaiswal.github.io/TIC-TAC-TOE/
